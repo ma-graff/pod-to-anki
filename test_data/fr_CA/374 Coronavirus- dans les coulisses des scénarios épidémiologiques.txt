@@ -1,0 +1,723 @@
+Je vois la lutte contre là,
+
+pandémie, un peu comme une bataille qui se mène sur
+
+plusieurs fronts. Le premier, qui vient en tête, c'est bien
+
+sûr la première ligne. La première tranchée, c'est des
+
+travailleurs de la santé. Viennent ensuite une foule
+
+d'individus dans plein de faire de notre société et dont on a
+
+parlé à sa s'explique. Depuis le début de cette crise sanitaire.
+
+Mais je voulais vraiment à travers tout ça, qu'on s'attarde
+
+un instant aux personnes qui triment dur pour guider la santé
+
+publique et le gouvernement dans leur choix. Ceux qui conçoivent
+
+les modèles et les scénarios en fonction desquels sont définis
+
+les mesures de contrôle de la
+
+pandémie. Dans l'ombre cette petite armée
+
+d'experts fait toute une différence. Explorons leur
+
+univers et leur stratégie pour pouvoir prédire et
+
+calculer l'évolution du virus et ses impacts.
+
+Notre question, comment on conçoit les modèles qui guident
+
+les décisions de la santé publique en temps de pandémie?
+
+Notre invité, Bonjour, je suis Marc Christian, directeur du
+
+groupe de recherche en modélisation mathématique en
+
+économie de la santé liés aux maladies infectieuses. Je suis
+
+professeur à l'université Laval, moi, je m'appelle Alexis de
+
+lancer et c'est parti pour ça s'explique le balado, qui
+
+s'intéresse à l'actualité. Une question à la fois.
+
+Il y a personne qui veut jouer à Jojo savard. Excusez-moi pour la
+
+dame là, même à l'astrologie là parce que ça devient dans cet
+
+ordre là parce que les gens me disent même annonce rien au
+
+resto, ils vont te couper la tête si jamais tu n'as pas le
+
+bon chiffre, c'est compliqué les scénarios. Je peux vous dire, ça
+
+rime avec Horacio mais je pouvais, je pouvais m'en passer.
+
+Je m'en passerais au début du mois d'avril. Fidèle à ses
+
+habitudes, le docteur Horacio arruda a trouvé cette façon bien
+
+coloré, disons de parler de la très délicate âge, de présenter
+
+des scénarios épidémiologiques à
+
+la population. Marc Brisson c'est en partie vous qui êtes
+
+derrière ce travail de modélisation. Vous travaillez
+
+loin de l'oeil médiatique que tout en étant un rouage
+
+essentiel dans la prise de décision. Amenez nous tout
+
+d'abord aux premiers instants de la crise sanitaire en couler. Si
+
+on veut, décrivez moi un peu comment et dans quel contexte
+
+votre travail s'est amorcé. Bon, mon travail a commencé à peu
+
+près lors du confinement. J'ai contacté l'institut national de
+
+santé publique du Québec pour leur dire que je serais prêt à
+
+développer. Du modèle qui pourrait leur les aider à la
+
+prise de certaines décisions. Donc vous êtes porté volontaire
+
+là? Oui, je me suis porté volontaire vers la fin mars pour
+
+faire des travaux et depuis on travaille très très fort après
+
+14h par jour pour que nos modèles reflètent le mieux la
+
+réalité. Vous dites, euh, donc vous êtes une une petite équipe,
+
+mais c'est moi qui composent l'équipe. Et quel est votre
+
+votre but précis? Votre rôle précis dans tout ça? Avec tous
+
+ces chiffres qui sont votre
+
+matière première? Donc je suis le directeur du groupe, mais il
+
+y a des gens qui travaillent avec moi dans mon équipe, qui
+
+travaille aussi dur ou sinon plus longtemps que moi. Donc on
+
+est une équipe, une petite équipe de personnes font de la
+
+modélisation, on a des statisticiens et étymologistes
+
+donc tout tout ce monde là, on prépare mon modèle basé sur des
+
+matières premières, la première matière sur les données
+
+technologiques, le 2e, c'est la connaissance du virus, puis 3,
+
+la 3e c le modèle en tant que tel dans votre quotidien, vous
+
+le dites là, c'est 12h de travail par jour.
+
+C'est des grosses journées. Et puis ensuite le fruit de votre
+
+travail, vous le partagez donc aux instances gouvernementales?
+
+Décrivez nous un peu le la routine comme tel. Comment ça se
+
+passe au quotidien? Donc c'est important. Tout bouge rapidement
+
+avec la copine, donc pour moi, une journée consiste
+
+Premièrement à survolé la littérature de regarder ce qui
+
+se passe dans les nouvelles national international local.
+
+Par la suite, je rencontre mon équipe pour développer le le
+
+modèle, puis s'assurer qu'on a les meilleures données. Puis
+
+ensuite, il y a des réunions avec des fois la santé publique
+
+avec mes collaborateurs à l'international et ensuite je
+
+travaille moi même à la conceptualisation du modèle,
+
+m'assurer que toutes les données
+
+soient corrects. Et des modèles donc que vous partagez avec
+
+l'équipe de monsieur Harold à la direction de la santé
+
+national public donc, euh, t'es au jour le jour. Je travaille
+
+beaucoup avec mon équipe mais aussi avec les professionnels
+
+de santé publique. Par la suite, une fois que on a une
+
+question qu'on a développé avec des résultats, à ce moment-là,
+
+on présente nos résultats. Premièrement, à la direction de
+
+la santé publique et ensuite docteur à Bouddha et docteur
+
+massé.
+
+La COVID-19, ce qu'elle a fait entre autres, s'est braqué les
+
+projecteurs sur la la modélisation des épidémies,
+
+comme on pourrait la qualifier. C'est ça qui est au cœur de
+
+votre travail, monsieur Brisson, il faut bien dire que c'est une
+
+science qui est assez jeune, assez méconnues. Dites nous en
+
+plus à ce sujet là.
+
+Oui, là là, modélisation mathématique des maladies
+
+infectieuses. Ça a commencé plutôt dans les années 80 90,
+
+mais les les premiers grands chercheurs de cette génération
+
+là sont dans la cinquantaine parce qu'ils ont commencé avec
+
+la modélisation de l'épidémie du VIH. Mais depuis une une
+
+évolution assez exponentielle.
+
+Donc, au début, il y avait une dizaine de personnes. Puis
+
+maintenant on voit avec la copie de ce que il y a des gens qui
+
+font de la modélisation à travers le monde et une
+
+vingtaine de groupes au moins au Canada qui font de
+
+l'harmonisation de la copie 19, que ce soit ici ou partout dans
+
+le monde, c'est un peu des gens comme vous qui sont à la source
+
+des décisions qui sont prises. Je ne dirais pas qu'on est à la
+
+source des décisions, toutes ces décisions là par rapport à la
+
+coque vide, aux interventions. Décision de *** fini.
+
+Ils étaient confinés, c'est des décisions politiques qui
+
+tiennent en compte différents facteurs. Il y a la
+
+modélisation, il y a l'état de l'épidémie dans le pays où dans
+
+la province, mais aussi à des décisions économiques et de
+
+santé plus globale. Donc la décision en finale, c'est une
+
+décision politique, mais j'espère que là modélisation
+
+peut jouer un rôle important dans la prise des décisions. Ben
+
+écoutez, la première chose sur laquelle on se base pour
+
+construire le modèle, c'est le épidémiologie réelle, celle
+
+qu'on n'observe. Et donc on avait préparé un premier travail
+
+qui a été présenté au début du mois de mai, dans laquelle,
+
+entre autres, pour la grande région de Montréal, il y avait
+
+beaucoup d'incertitude. Il y avait des incertitudes parce que
+
+ce qu'on voyait en terme de nouvelles hospitalisations, de
+
+nouveaux essais, c'est qu'on avait à peu près le même nombre
+
+de qu à chaque jour et que ça ne semblait pas vouloir descendre.
+
+On va maintenant rentrer dans le vif du sujet. Monsieur Brisson,
+
+la modélisation comme tel, là, Gaston de serres, Dr de serres,
+
+médecin épidémiologiste alien SPQ, expliquait un peu comment
+
+vous réussissez à faire votre
+
+travail. Alors si un peu plus en détail, à partir de quoi au
+
+juste? On construit les modèles de projection. Quels sont les
+
+principaux ingrédients? Donc, le premier ingrédient, c'est comme
+
+le docteur desservi, laisser les données, les données
+
+québécoises. On se base sur le nombre de stabilisation et le
+
+nombre d'essais à chaque jour.
+
+Par la suite, on a la compréhension du virus, de son
+
+histoire naturel et de sa transmissibilité, donc on doit
+
+savoir le fameux R 0, donc là transmissibilité, on doit faire
+
+des hypothèses pour la recherche, pour comprendre c'est
+
+quoi là proportion des infections qui sont
+
+asymptomatiques, comprendre le taux de mortalité, et cetera. Et
+
+Troisièmement, si les comportements humains, est-ce
+
+que les gens respectent les mesures de distanciation?
+
+Quelles sont les mesures qui ont été prises dans les commerces,
+
+et cetera? Combien?
+
+De test, on peut faire et si on est capable de trouver les
+
+contacts de ceux qui sont positifs la copine donc par
+
+exemple, pour penser où planifier le D confinement, vous
+
+jouez avec plusieurs scénarios. Vous utilisez plusieurs
+
+scénarios d confinement des écoles, non des confinement des
+
+écoles. C'est un peu ça qui vous guide pour présenter tout
+
+l'éventail des possibilités aux aux gens qui prennent les
+
+décisions, c'est ça? Ouais, c'est ça. Donc c'est important
+
+de dire que nous, on présente
+
+des scénarios. Avec des hypothèses, donc on peut. Ils
+
+ont que maintenant on a une réduction du nombre d'essais
+
+d'hospitalisation et pour bien préparer septembre, on peut
+
+ensuite regarder différents scénarios de d'ouverture, de
+
+l'école ou de fermeture de l'école. Qu'est-ce que ça peut
+
+faire sur l'évolution de l'épidémie? L'impact des tests,
+
+et cetera. Donc on peut regarder
+
+différents scénarios. Puis ensuite, dans ce scénario, on
+
+fait des prédictions. Mais pour chaque production n'a pas une
+
+seule réponse, on a de l'incertitude autour de nos
+
+prédictions. Donc ensuite, les décideurs peuvent voir okay,
+
+quel sera l'impact de telle ou telle intervention en tenant
+
+compte de l'incertitude de différents facteurs, dont notre
+
+compréhension de l'histoire naturel et le comportement
+
+humain. C'est une question de statistiques. Il y a une
+
+question de prédictions, avec un degré d'incertitude, quel genre
+
+de parallèle on peut faire avec, par exemple, les bulletins
+
+météo? Si on parle de votre travail, il y a 2 types de
+
+modèles, il y a les modèles qui sont des modèles de type météo
+
+ou le rôle de la modélisation, c'est de dire à court terme
+
+combien on va avoir de code hospitalisation, idée. Ce genre
+
+de modèles peuvent aider le gouvernement à prévoir les
+
+besoins à l'hôpital. Ensuite, il
+
+y a des. Modèle de scénario, ça, c'est plus que ce que nous
+
+ont fait. C'est le modèle qui nous permettent de comprendre
+
+l'impact potentiel de différents intervention. À ce
+
+moment-là. On n'est pas dans la météo, c'est plutôt des ordres
+
+de grandeur. Si on fait ça, ça va donner tel genre de
+
+résultat. Avec son incertitude qui ont fait, ils ont un autre
+
+intervention sur le dernier, donc ça nous donne au
+
+gouvernement les ordres de grandeur de l'impact potentiel
+
+d'intervention.
+
+La bonne nouvelle, c'est qu'on se trouve dans le dans le
+
+scénario optimiste. Alors ça, c'est la bonne nouvelle, c'est à
+
+dire les hospitalisations commença à diminuer. L'aider,
+
+c'est aussi, et ça c'est, c'est encourageant. Tous les efforts
+
+qu'on a fait ça, ça paie. On voit que là on est vraiment là,
+
+passé là là, là là, là, là fameux, le fameux pic de la
+
+courbe. Récemment Benoît masse, professeur de médecine sociale
+
+et préventive à l'école de santé publique de l'université de
+
+Montréal, se réjouissait, je le comprends de voir que le Québec
+
+suivait plutôt bien le scénario
+
+optimiste de projection. Il faut dire que les scénarios
+
+pessimistes laissait vraiment présager le pire. Alors,
+
+monsieur Brisson, qu'est-ce qui explique les écarts? Les grands
+
+écarts entre les modèles qui sont conçus par vous et par
+
+d'autres, donc lorsqu'on a faites ce ce rapport là, donc
+
+les prédictions. On avait un. Un scénario optimiste, un scénario
+
+pessimiste? Qu'est-ce qui se passait dans le grand Montréal
+
+et qu'on avait une croissance continue d'hospitalisation et de
+
+d'essais? Deuxièmement, on n'avait pas encore de données
+
+sur les comportements, donc si les montréalais respectent la
+
+distanciation sociale. Donc on avait 2 courbes
+
+d'hospitalisation et d'essais qui continue à monter et à ce
+
+moment-là, faire des confinement. Mais c'est très
+
+incertain. C'était très incertain de savoir dans quelle
+
+direction pourrait aller la courbe, parce que la courbe à
+
+monter, donc 3 semaines plus tard, on a vu que la courbe
+
+avait changé. Mais les accusations et les dessins ont
+
+commencé à diminuer. On a aussi des données de comportement qui
+
+nous montrait que les contacts entre personnes avaient diminué
+
+de. De 60 pour 100 ou plus donc à ce moment-là, on a pu
+
+constater que tous ces éléments nous montrer qu'on était dans la
+
+situation optimiste. Mais c'est ça qui est particulier dans
+
+l'oeil du public et qu'on comprend pas toujours. C'est à
+
+quel point vous travaillez avec des données mouvante,
+
+changeante. Le virus comme tel ou vous disiez tantôt on le
+
+connaît à peine la science, la connaissance scientifique
+
+évolue. Et là vous parlez de de toutes ces autres données qui
+
+change comment vous faites pour ajuster les modèles en cours de
+
+route, les peaufiner finalement.
+
+Ce qu'on fait, c'est à chaque à chaque semaine, on confrontent
+
+notre modèle aux données et mythologique du Québec.
+
+Donc chaque semaine, on recalibre notre modèle aux
+
+données qu'ensuite on essaie de comprendre. Quelles sont les
+
+raisons pourquoi on va vers une situation plus optimiste ou ou
+
+une situation? Q, pessimiste donc lorsqu'on a refait nous
+
+estimer et on voyait qu'on allait dans la situation, la
+
+plus optimiste ont pu voir que c'était parce que un il y a eu
+
+certains changements dans les politiques du gouvernement qui
+
+ont retardé l'ouverture de
+
+certaines choses. Et Deuxièmement, on a pu constater
+
+que l'adhérence à la population, aux mesures de distanciation
+
+c'était très très important.
+
+Et à ce moment-là, on a fait un autre rapport pour montrer
+
+l'importance de cette adhérence sur l'évolution. Des courbes
+
+épidémiologiques. Mais il faut aussi dire que pour à
+
+l'extérieur du grand Montréal, nos prédictions sont très, très
+
+stable depuis le début. Évidemment, ce qu'on essaie de
+
+tous d'avoir comme réponse et quand va arriver le fameux
+
+sommet, le fameux pic là, et ce qui va arriver dans 12 semaines
+
+dans un mois, honnêtement, là c'est difficile de répondre à
+
+cette question. Là, je comprends que beaucoup de gens voudraient
+
+avoir. Nos scénarios, ce que j'ai demandé aux gens de la
+
+santé publique, c'est de travailler au cours des
+
+prochains jours, peut-être à sortir une espèce de scénario le
+
+plus probable? Ouais, la question des scénarios, ça
+
+occupé une partie de l'actualité. Il y a quelques
+
+semaines, il y a eu tout un débat à savoir s'il fallait ou
+
+non rendre publics des scénarios comme ceux que vous préparez
+
+régulièrement pour la santé publique. Monsieur Brisson,
+
+monsieur legault, à finalement décidé qu'il fallait les
+
+dévoilés. Est-ce que c'est
+
+pertinent? Selon vous, que le public en prennent connaissance
+
+de ces scénarios? L'un autant les optimistes, les pessimistes.
+
+Je suis un chercheur avant tout et tout ce que je fais, je. Je
+
+le publie, donc je pense que c'est très important en tant que
+
+chercheur, que ce qu'on trouve soit publié. Je pense par contre
+
+que la façon dont montre les
+
+scénarios. Est important, donc je pense que c'est important de
+
+d'être transparent puis de montrer ce scénario là. Mais
+
+ensuite je pense qu'il faut trouver la meilleure façon de
+
+les expliquer par la suite, parce qu'il y a beaucoup
+
+d'incertitude, par exemple d'expliquer pourquoi on fait pas
+
+un scénario le plus probable.
+
+C'est que parfois, il y a beaucoup d'incertitude, donc
+
+c'est mieux de présenter cette incertitude là mais d'expliquer
+
+d'incertitude. C'est toujours
+
+difficile. Sortez vous que la population de la comprise.
+
+Et c'est très difficile à expliquer. L'incertitude à la
+
+population, c'est aussi difficile de le transmettre dans
+
+les médias avec les nouvelles, parce que, on veut savoir le
+
+nombre de décider qu'on va avoir dans 2 semaines, 3 semaines.
+
+C'est difficile de véhiculer que c'est pas un chien, c'est un
+
+chiffre avec une incertitude.
+
+Donc je pense que c'est là où on a beaucoup de travail à faire.
+
+Et comme vous voyez, il y a énormément d'incertitude. Ce ne
+
+sont que des modèles théoriques et je pense que docteur arruda
+
+c'était pour ça qu'il ne voulait pas avancer des chiffres parce
+
+que s'il y a trop d'incertitudes dans les chiffres, il ne tenait
+
+pas intéressé à commenter un de la modélisation mathématique, il
+
+veut commenter la réalité et comment on y fait face?
+
+Observations de l'imam ash ouf, épidémiologiste et chargé de
+
+cours à l'école de santé publique de l'université de
+
+Montréal, qui rappelait comme vous le faisiez en quelque
+
+sorte. Que les différents scénarios qu'on a vu au cours de
+
+la pandémie comporte l'incertitude, c'est normal, ça
+
+fait partie de cette réalité de votre champ de connaissances.
+
+Ils sont malgré tout fiables. C'est ce que j'en comprends.
+
+Vous êtes quand même satisfait des résultats obtenus par
+
+rapport à ce qu'on voit.
+
+Oui, je pense que c'est important de montrer quand on
+
+est à un certain donc dans la situation de Montréal, à un
+
+certain moment, nos prédictions étaient que l'état était
+
+fragile, ce qui voulait dire qu'on ne pouvait pas dire avec
+
+certitude dans quelle direction l'épidémie pourrait évoluer à
+
+Montréal. Pour ce qui est des autres régions, nos résultats
+
+étaient plus fiables. On avait moins d'incertitudes, donc nos
+
+résultats sont fiables dans le contexte que on peut bien
+
+présenter, le incertitudes ou la certitude autour de nos
+
+prédictions. Et qu'on puisse expliquer, qu'est-ce que tu fais
+
+en sorte que nos résultats sont plus certains où incertains?
+
+Puis à travers tout ça, en dehors de ce que vous faites
+
+concrètement, est-ce qu'il y a quand même un risque à accorder
+
+trop d'importance aux projections comme telles? Que ça
+
+doit se combiner à d'autres éléments pour bien envisager la
+
+réponse face à la pandémie?
+
+Je pense que c'est très important de se fier aux données
+
+et pneumologique convoi de regarder aussi ce qui se passe
+
+dans les autres pays, dans les autres provinces, pour prendre
+
+nos décisions. Donc là,
+
+modélisation. Fait partie de l'équation, mais on ne peut pas
+
+tout te mettre sur le dos de la
+
+modélisation. 710 scénarios.
+
+Qui peuvent être très informatif pour la prise de
+
+décision. Mais la décision ne devrait pas être seulement pris
+
+à partir des résultats des modèles.
+
+Et là, je évidemment la question que je dois vous poser avec
+
+l'état de la situation, là où on se trouve en ce moment. Face à
+
+cette pandémie, qu'est-ce que vous surveiller davantage pour
+
+la suite? On a tous en tête une éventuelle 2e vague. Comment
+
+vous orienter vos calculs? Nouveau modèle en fonction de ce
+
+qui peut survenir à ce stade ci, de la lutte contre là, pandémie
+
+de café 19 le premier élément c'est je veux bien comprendre,
+
+qu'est-ce qui s'est passé.
+
+Dans la première vague. Le mieux comprendre l'évolution de la
+
+Corée 19 à Montréal le rôle des CHSCT d le rôle des qu importer
+
+du au travail.
+
+Une fois qu'on a mieux compris ça, là, la suite de nos travaux,
+
+c'est de bien comprendre. Qu'est-ce qu'on doit faire? Si
+
+une 2e vague commence?
+
+Euh, est-ce qu'on est d'augmenter les tests,
+
+d'augmenter l'investigation des Cats? Positif le rôle de
+
+l'école, si on peut faire en sorte que les enfants puissent
+
+rester à l'école, même s'il y a une 2e vague, est-ce qu'on peut
+
+faire ça? Donc toutes ces ces questions là pour essayer
+
+d'éviter l'impact économique et sociétal? Une 2e vague de
+
+trouver les meilleurs moyens d'intervenir pour éviter cette
+
+2e vague. Mais la 2e vague comme telle, est-ce que ça fait partie
+
+des scénarios auxquels vous vous attardez en ce moment, des
+
+modèles prédictifs? Donc, pour ce qui était du moment de la 2e
+
+vague, si tu avais été inclus
+
+dans nos modèles. Le jour.
+
+C'est impossible à prévoir, mais on peut avoir des idées de dans
+
+quel mois que ça pourrait commencer à remonter étant donné
+
+les mesures qui ont été mises en place par le gouvernement, donc.
+
+Ce qu'on voit présentement,
+
+c'est que. Pour le mois de juin et juillet, tout semble
+
+stable, mais on peut avoir une accumulation décapant
+
+dans l'été et l'automne qui est à ce moment là qu'on
+
+qu'on doit rester un peu plus vigilant. Il sera aussi comme
+
+maintenant à ce moment-là, que votre travail sera tout
+
+aussi important. Monsieur Brisson, Marc Brisson, merci
+
+pour cette conversation, merci beaucoup. Bon courage
+
+au revoir. Au revoir.
+
+C'est là dessus que s'achève un autre épisode du balado
+
+ça s'explique avec toute l'équipe. Je vous remercie
+
+de nous suivre jour après jour. Si vous souhaitez
+
+qu'on abordé un sujet en particulier, n'hésitez pas,
+
+écrivez nous à ça s'explique. A commercial
+
+radio trait d'union Canada, point C à moi, je m'appelle
+
+Alexis de Lozère à demain.

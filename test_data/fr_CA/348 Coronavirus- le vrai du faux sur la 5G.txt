@@ -1,0 +1,671 @@
+En marge de la
+
+pandémie, il y a un phénomène assez curieux qui a commencé à
+
+se produire et qui me laisse
+
+très perplexe. Des dizaines de supposer antenne 5G ont d'abord
+
+été incendiée au Royaume-Uni. Ensuite, des incendies
+
+semblables ont été recensés ailleurs en Europe, notamment en
+
+Belgique, aux Pays-Bas et à Chypre. Puis est arrivé le tour
+
+du Québec. Plusieurs tours de télécommunication ont récemment
+
+été partiellement brûlé par des vandales. Au moment
+
+d'enregistrer ce balado, la sûreté du Québec soupçonne que
+
+ces actes criminels soient motivés par des théories liant
+
+la technologie 5GA des risques pour la santé ou encore un vaste
+
+complot mondial. Il me semble que tout se mérite. Quelques
+
+explications. Notre question, doit-on craindre la 5G? Notre
+
+invité, Mathieu dougall, animateurs moteur de recherche,
+
+ici Radio-Canada première. Moi, je m'appelle Alexis de lancer et
+
+c'est parti pour ça s'explique. Le balado, qui s'intéresse à
+
+l'actualité. Une question à la
+
+fois. En Irlande le week-end dernier, des gens ont mis le feu
+
+à cette installation. 5 j'ai depuis quelques jours, une
+
+rumeur courait répandre la peur, la 5G. Transmettre elle convient
+
+1912. Ces actes de vandalisme, notamment aux États-Unis, au
+
+Royaume-Uni, à certains endroits. Bon, dans ce que si on
+
+n'a pas d'information pour l'instant, est-ce qu'il s'agit
+
+de Tours? 5 Jimmy 2 tours incendie en moins d'une heure
+
+dans les laurentides ils ont été arrêté la nuit dernière à
+
+sainte-adèle, dans les laurentides, relativement à une
+
+série d'incendies qui ont lourdement endommagé des tours
+
+cellulaire. Plusieurs extraits. Bulletin de nouvelles. Mathieu
+
+qui qui synthétise bien un peu l'état de la situation en ce
+
+moment, ça c'est incroyable. Enchaînement de ces événements
+
+là. On va commencer par rappeler ce qu'est le réseau 5G après la
+
+3G, la 4G, la 5G, c'est quoi là? 5G faim dans l'histoire des
+
+communications cellulaire. Alexis, on a eu, on est parti,
+
+c'est vraiment dans l'ordre, donc première génération, 1G,
+
+2G, 3G bomb. La première c'était des appels, la 2e, on a rajouté
+
+les textos, la 2G et là 3G, les données, la 4G, l'accès à
+
+internet. Et là donc là 5G, on rajoute quelque chose qui est
+
+vraiment très novateur parce qu'auparavant en fait on
+
+augmenter. L'âge résume vraiment grossièrement augmenter dans le
+
+fond le tuyau pour rentrer des données. Puis on pouvait rentrer
+
+toujours plus de données seront là. Consumer technologies
+
+association pour télécharger un film de 2h en HD, ça prenait une
+
+journée en 3G puis 6 minutes en 4G donc on va vraiment
+
+l'augmentation de la vitesse mais quand on passe de la 4G à
+
+la 5G, c'est sûr que là 5G va beaucoup plus rapide. L'on parle
+
+d'un saut de 6 minutes à 3
+
+points 6S. Pour un film de 2h mais la vraie, la vraie de vraie
+
+innovation, Alexis, elle se situe ailleurs, parce que là, 5G
+
+va permettre essentiellement 2 choses de plus que ce qu'on
+
+connaissait jusqu à maintenant, c'est-à-dire des connexions
+
+simultanées, beaucoup plus de connexions simultanées. On va
+
+passer selon l'Union internationale des
+
+télécommunications, a une capacité de 2000 appareil par
+
+kilomètres carrés, a une possibilité de un million
+
+d'appareils par kilomètre carré, puis l'autre hallucinant, c'est
+
+un saut quantitatif énorme, énorme et et l'autre chose qui
+
+va beaucoup changer, c'est ce qu'on appelle la latence et donc
+
+là latence, c'est.
+
+C'est une mesure de délai. Ça, c'est le temps nécessaire pour
+
+que les données parviennent à leur destination et donc en 4G.
+
+On parlait d'une latence, le autour de 60000, il S et amp,
+
+5G. Selon les technologies, parce que là, 5G c'est très
+
+large aussi. On pourra y revenir. On va être davantage
+
+dans l'ordre de un à 5 milli secondes de latence, donc vous
+
+voyez, là on passe de 60000S à un à 5000S donc je résumé. On a
+
+une vitesse de transmission autour de 20 fois celle de la 4G
+
+peut être même plus dans certains qu une capacité de
+
+connexions simultanées multiplié par 500 puis une latence qui est
+
+diminuée par un facteur là jusqu à 60 donc on le voit là là 5
+
+juste un saut vous l'avez dit.
+
+Quantitatif, mais aussi qualitatif qu'on annonce énorme
+
+dans l'histoire des communications cellulaire. Et
+
+c'est une technologie Mathieu qui peut sembler attrayante aux
+
+yeux de bien des gens, mais qui va qui requiert une un
+
+déploiement, une infrastructure pas mal plus imposante. Tout les
+
+inquiétudes de plusieurs juste pour donner un chiffre
+
+actuellement, là aussi, on prend juste l'île de Montréal pour
+
+couvrir l'île de Montréal avec des antennes 4G. On est environ
+
+à 1200 antennes ont dit que si on veut avoir un réseau 5G
+
+conséquent sur le TER.
+
+Et toi, de de l'île de Montréal, ça va prendre entre 40 et 60000
+
+antennes, 40 et 60000 par rapport à 1200. Donc c'est sûr
+
+que ça peut faire peur. Mais d'autre part, ce qu'il faut
+
+dire, c'est que pourquoi il en faut tellement, c'est que
+
+justement les zones 5G bah elle traverse très mal les obstacles.
+
+C'est-à-dire que si vous avez un mur, si vous avez des édifices,
+
+euh, saison de là ils vont pas très bien traverser ça donc ça
+
+n'en prend beaucoup ont dit que le le rayon d'action là d'une
+
+antenne. 5G classique. Là, on parle de quelques centaines de
+
+mètres. La cime, 102 100 à 300 mètres, à peu près de
+
+rayonnement, c'est vraiment très peu et donc ça va demander
+
+beaucoup plus d'antennes. Mais très concrètement, Mathieu, le
+
+réseau 5G en ce moment, est-ce qu'il est en train d'être
+
+déployée ou non là? Actuellement, on a par exemple
+
+des opérateurs qui offre, dit-on, un service 5GEI à
+
+Rodgers qui dit offrir un service 5G. J'ai communiqué avec
+
+eux et ils m'ont dit que dans le centre-ville de Montréal par
+
+exemple, on a déployé
+
+effectivement devrait. Vrai antenne 5G? Mais si on sort et
+
+là donc ils me l'ont pas confirmée. Mais quand on sort
+
+des grands centres, c'est impossible. Actuellement, selon
+
+la configuration des antennes 5G, de dire que par exemple le
+
+long des autoroutes on va avoir un signal 5G si on n'a pas des
+
+antennes 5G vraiment très très rapprochées, alors qu'est-ce
+
+qu'on fait dans ce temps-là? Et ça, c'est Dominic deslandes qui
+
+est professeur à l'école de technologie supérieure, un
+
+spécialiste justement des communications cellulaire, qui
+
+me disait qu'on peut utiliser
+
+des antennes 4G. Dans le haut de leur bande passante. Donc
+
+vraiment là, les zones les plus élevés qu'on retrouve sur une
+
+antenne 4G et on peut ainsi émuler de la 5G. Donc c'est un
+
+espèce de fausse 5G qu'on utilise et qui permet d'avoir
+
+donc des temps de latence qui sont quand même beaucoup plus
+
+réduit par rapport à la à la 4G classique. Donc une vitesse de
+
+transmission aussi qui est plus grandes. Mais on n'est pas sur
+
+des vrais entre guillemets. Antenne 5G dédié donc voyez là
+
+c'est. Très vaste cette technologie là et elle va se
+
+déployer dans des types de longueur d'onde très différente,
+
+tout dépendant de l'endroit où on va se trouver si on est dans
+
+un dans un centre ville, si on est dans un quartier
+
+résidentiel, si on est le long d'une route. Il faut dire que du
+
+déploiement à grande échelle partout au Canada, là, attendez
+
+vous pas de voir ça là avant 345 ans? Parce que ça va vous on le
+
+dit, ça va prendre énormément des antennes et il faut que ça
+
+se paie aussi ces choses là. Il faut que les gens s'abonne.
+
+Donc je pense que quand on est rendu au point où l'organisme
+
+mondiale de la santé, le le CDC aux États-Unis, à l'institut du
+
+cancer nationale, aux États-Unis aussi prennent toutes la même
+
+position, on a plusieurs panneaux interdisciplinaire qui
+
+se sont penchés sur cette question là qui arrivent à la
+
+même conclusion que non, il n'y a pas d'effet néfaste, il n'y a
+
+pas de mécanisme qui pourrait causer ça. Je pense qu'on en a
+
+assez de donner à un moment
+
+donné. La science à tranché sur la 5G les dangers sont
+
+inexistants. C'est en somme un peu le.de vue de Jonathan Jarry
+
+qu'on attendait de l'organisation pour la science
+
+et la société de l'université McGill. Je l'interview est cette
+
+semaine et et pourtant Mathieu, les craintes, belle demeure vive
+
+malgré ce que dit monsieur Jarry et pour pas mal de monde, ces
+
+craintes sont bien présentes. Comment faire pour faire le pont
+
+entre ces posture très, très différente face à la 5G? C'est
+
+un domaine vraiment très fascinant. Pour comprendre
+
+justement le le niveau d'acceptabilité sociale de
+
+nouvelles technologies, parce
+
+que. La première chose qu'on peut dire Alexis, c'est qu'il y
+
+a personne qui s'est levé un matin là. Quand on parle de
+
+citoyens qui s'est dit Ah tiens, j'aimerais tellement avoir un
+
+signal plus rapide que ce que j'ai actuellement et donc il
+
+faut se poser la question, à qui ça sert ce déploiement? L'appui,
+
+est-ce que ça sert vraiment les citoyens, ça c'est une autre
+
+chose, puis l'autre. L'autre truc c'est évidemment vous
+
+l'avez dit, euh, on pourrait dire que la très grande majorité
+
+des scientifiques qui s'intéressent à la question nous
+
+disent qu'il y en a pas de problème avec ces ondes là, mais
+
+quand même il y a une partie de la communauté scientifique et je
+
+pense que Euh, il faut quand même l'écouter aussi parce que
+
+ces gens-là nous disent, on n'a peut-être pas des études hors de
+
+tout doute qu'il nous dise qu'il y a de de l'innocuité, alors,
+
+est-ce que ça prendrait pas la peine dans ce cas-ci, de mettre
+
+un frein? Puis la personne qui va mourir, ne pas avoir de sens
+
+que j'ai demain matin là?
+
+Il doit se dire, OK, on va aller faire les études, puis on va, on
+
+va raffiner le truc et donc par exemple, il y a un éditorial. En
+
+2019, il y a 248 scientifique de 42 pays qui a envoyé une lettre
+
+à l'ONU qui lui demandait de réévaluer les dangers que posent
+
+ces technologies 4G et 5G aux plantes, animaux, êtres humains,
+
+euh, mais en même temps il faut le re dire, et vous avez raison
+
+et les la plupart des scientifiques à qui on parle,
+
+qui s'intéresse à la question, qui connaissent la science de
+
+ça, nous disent qu'il y en a, pas de problème. Puis on le
+
+sait. Les ondes 5G, elles sont tellement peu fort, justement,
+
+qu'il faut en mettre beaucoup des antennes. Parce que s'il y a
+
+une antenne à 300 mètres de chez vous, là, vous serez même pas
+
+capable de prendre le CE signal là avec avec votre téléphone ou
+
+sur un équipement que vous auriez chez vous, le soleil
+
+serait plus dangereux même. Bah oui, il est beaucoup plus, puis
+
+par des facteurs de plusieurs milliers là donc c'est ça qu'il
+
+faut aussi redire là-dedans. Puis en même temps les les
+
+opérateurs, les fournisseurs d'accès sont souvent très
+
+contesté par bien des citoyens
+
+un peu partout. Parce qu'il déploie des antennes comme bon
+
+leur semble, entre guillemets, ils le font toujours de manière
+
+légale, mais ça arrive souvent qu'il y a des récriminations
+
+citoyenne parce qu'on coupe, déboiser, puis on installer des
+
+antennes un peu un peu partout et donc l'acceptabilité sociale.
+
+Dans le déploiement de ces technologies là. Mais les
+
+citoyens qui disent qu'elle n'est pas là, ils ont en partie
+
+raison aussi parce que c'est sûr que, il y a des gens qui vont
+
+dire, ça ne se fait pas de manière démocratique, ça ne se
+
+fait pas de manière aussi transparente que ce qu'on
+
+pourrait. S'attendre et ils ont pas tord non plus donc il y a un
+
+problème là il faut le dire là il y a quelque chose qui passe
+
+pas. Puis je dis pas que ce sont des bonnes raisons parce que
+
+souvent les ce qui circule en ligne sur la technologie 5G
+
+c'est de la fausse science, c'est des choses complètement
+
+farfelue. Sa note vous prédispose pas avoir la coque
+
+vide mais pas du tout, il n'y a aucune étude sérieuse qui dit
+
+ça, ça ne prédispose pas en tout cas pour ce qu'on sait à au
+
+cancer, mais en même temps il y a quelques zones d'ombre, donc
+
+qu'est-ce qu'on fait si on est par exemple un de ceux-ci? Nous
+
+sommes des des autorités de
+
+santé. Ligue des des députés, des gens qui, hum, œuvre dans le
+
+domaine. Ben là, on a des gens qui nous disent qu'ils ont peur.
+
+On a des gens qui me disent que on leur cache des choses à tort
+
+ou à raison. Peut-être que ça serait bien d'avoir un débat
+
+public là dessus justement parce qu'il y a aussi de la très bonne
+
+science qui nous dit qu'il n'y a pas vraiment de danger et ça
+
+serait bien aussi que on soit à même d'en débattre publiquement.
+
+Les recherches dans Google à propos de la 5G ont absolument
+
+explosé au Canada à partir de la mi-mars. Donc quand la part
+
+d'émilie et a frappé, il a commencé à frapper au Canada. On
+
+a vu les recherches associée à la 5G. Beaucoup de recherche
+
+qui, sur Google, qui disent, est-ce que c'est à cause de la
+
+Corée du 9, et cetera? Mon collègue des décrypteurs, Jeff
+
+yates, qui évoquait ici cet intérêt accru pour les liens
+
+entre la COVID-19 et là, 5G
+
+Mathieu. Les recherches à ce sujet on monte sur Google en
+
+flèche. On est donc face à toutes sortes de théories sur la
+
+5G. Par exemple, les théories qui allègue que là, cover
+
+directement causée par la technologie 5G ou que là 5G
+
+affaiblit le système immunitaire nous rendrait par le fait même
+
+plus vulnérables. D'où viennent ces théories? Sur quoi s'appuie
+
+t-elle sur pas grand-chose? Si j interprète bien tes propos? Mais
+
+effectivement, la plupart du temps celles qu parce que il
+
+faut le redire, là pour créer une publication virale en ligne,
+
+moi je pourrais vous en faire une demain matin là, puis-je
+
+vous certifient, là, je vais mettre une vidéo avec on nous
+
+cache des choses, puis.
+
+Avec des références complètement farfelue là, et ça se
+
+reprendrait comme un feu de paille. Il y a rien à faire. Des
+
+publications virales surtout, il faut le redire, que les
+
+algorithmes actuellement pour ce qu'on en connaît, notamment sur
+
+youtube, carbure à ça. Et d'ailleurs Jeff l'avait déjà
+
+démontré. Puis bien des gens aussi de concert avec lui, qui
+
+ont montré que les algorithmes sur youtube ont tendance à nous
+
+envoyer vers des contenus qui sont très clivants, des contenus
+
+qui sont choquants, des contenus qui vont faire réagir parce que
+
+c'est comme ça qu'on garde les gens en ligne, et c'est comme ça
+
+que youtube fait de l'argent et
+
+tout simple. La main, donc il y a une part de responsabilité qui
+
+vient de ces plateformes là parce que, il y a une grande
+
+déresponsabilisation et depuis longtemps, tant de la part de
+
+Google que de Facebook. Quant au contenu de fausse nouvelle que
+
+ces plateformes laisse circuler. Donc c'est sûr que c'est un
+
+terreau qui est très fertile et ça c'est très dommageable pour
+
+justement le vivre ensemble. C'est très dommageable pour la
+
+bonne science qui pourraient circuler et donc euh, on est
+
+face à un à une question qui
+
+nous demande. Peut-être pas seulement de dire, voici ce que
+
+la science nous dit, ni peut-être un effort de
+
+communication. Puis c'est pas la dernière fois qu'on va avoir à
+
+traiter avec des théories conspirationnistes et donc ça
+
+nous appelle, en tout cas comme comme communicateur, comme
+
+journaliste, comme gens qui travaillent, ont qui travaille
+
+dans la santé publique comme scientifique, à être encore plus
+
+direct, carte sur table et encore plus de transparence. Et
+
+c'est peut-être ça la leçon que cette crise autour de la 5G est
+
+en train de nous.
+
+De nous apprendre?
+
+Et poursuivons notre exploration, donc de de la 5G.
+
+Des craintes que ça suscite en mentionnant le fait que la Chine
+
+a une longueur d'avance dans le développement de cette
+
+technologie des infrastructures, que ça suppose aussi. Ça aussi,
+
+c'est en lien avec les craintes qu'on voit. Mais c'est sûr qu'il
+
+y a une course actuellement technologie qu'il faut dire. et
+
+la Chine est en train de littéralement de prendre le pas
+
+dans plein de domaines de haute technologie dans le monde qu'il
+
+faut comprendre. Alexis, c'est que dans le monde actuellement
+
+il y a environ 4 milliards d'internautes et les objets
+
+connectés. Là, on estime qu'il devrait y en avoir d'ici la fin
+
+de l'année, là. En vain. 50 milliards le chiffre la
+
+fourchette est très large, mais ça dépend ce qu'on compte, parce
+
+qu'il y en a tellement aussi que c'est difficile d'en faire le
+
+décompte et donc là 5G. Est-ce que ça va permettre?
+
+Essentiellement, c'est le développement de ces
+
+technologies là qui s'appelle le internet of things, donc
+
+l'internet des objets. Et donc les les les puissances qui
+
+auront une longueur d'avance dans le domaine. Ben c'est sûr
+
+qu'ils vont contrôler une partie du développement de la future
+
+économie de ces internet, de l'internet des objets. Mais
+
+lorsqu'il faut dire Alexis, c'est que là, 5G en même temps,
+
+c'est une excellente technologie. On va pouvoir
+
+probablement faire de la télé médecine des des chirurgiens qui
+
+sont à Montréal vont pouvoir faire des opérations à cette île
+
+ou un coup de jouac. On va pouvoir développer des
+
+applications. Par exemple d'usine connectée, qui seront
+
+fabuleuse donc des usines, des chaînes de production dont on va
+
+connaître l'état en temps réel qu'on va être capable de
+
+moduler. On va être capable de prédire, par exemple si des des
+
+objets sont sur le.de se briser, ça va vraiment améliorer un
+
+grand paquet de nos infrastructures industrielles.
+
+Ok, donc d point positif pour l'industrie Mathieu, mais qu'en
+
+est-il du consommateur pour le
+
+consommateur? Ouais, ça c'est beaucoup plus problématique
+
+parce que. Un four, connecter moi, je. Ça fait longtemps que
+
+je suis cette question là, mais moi il y a personne qui m'a
+
+encore prouvé qu'un four connecter. J'avais besoin de ça
+
+à la maison. La même chose pour un frigo connecter et l'autre
+
+chose qu'on dit pas, c'est que le problème de la 5G c'est que
+
+ça va générer énormément de pollution. Euh, parce que il va
+
+falloir renouveler l'ensemble de nos, de nos de nos appareils,
+
+que vous dites là tout ce que vous avez dans votre maison,
+
+imaginez vous la que si vous voulez le brancher sur le réseau
+
+5G, mais il va falloir que vous rachetez votre micro-onde. Il va
+
+falloir que vous rachetez votre frigo, il va falloir que vous
+
+rachetez des ampoules. Que vous rachetez un système de son que
+
+vous achetez tous vos poignées de porte, vos serrures et donc
+
+ça, ça génère énormément de pollution. Et là les opérateurs
+
+disent, Ben oui mais là, 5G consomme. Les antennes 5G
+
+consomme moins d'électricité que les antennes 4G c'est vrai. Sauf
+
+que les données qui vont être générée par ces objets connectés
+
+là, elles sont tellement énormes. Il va falloir les
+
+stocker quelque part. Là ça s'en va dans les centres de données,
+
+ces centres de données là sont alimentés par l'énergie qui
+
+souvent d'énergie très sale il y a de nombreux organismes qui
+
+étudient la question, notamment
+
+de shift Project. En France, qui a fait de nombreuses études là
+
+dessus et qui disent que par exemple on va pas couper les
+
+antennes 4G parce qu'on déploie de la 5G là parce qu'il y a des
+
+gens qui vont continuer à utiliser la 4G, Ben ça se
+
+rajoute donc à la consommation énergétique qui est déjà là et
+
+il faut en plus changer tout le parc informatique, tout le parc
+
+des téléphones. Ça c'est extrêmement polluant et ça les
+
+fournisseurs d'accès le disent pas tellement fort, ce qui
+
+accentue le manque
+
+d'acceptabilité sociale. Et aussi le besoin comme on
+
+l'évoquait tantôt d'un débat un peu plus large sur cette
+
+question. On va se laisser sur cette réflexion en espérant que
+
+ça mène à quelque chose. Merci beaucoup. Matthieu dugal
+
+toujours un plaisir merci Alexis. Allez, salut bye.
+
+En cette période de pandémie, vous êtes nos grands alliés.
+
+Faites nous part de vos questions. Ça pourrait nous
+
+inspirer. Écrivez nous à ça s'explique à commercial radio
+
+trait d'union Canada, point C à et surtout, surtout, prenez soin
+
+de vous. Moi, je m'appelle Alexis de lancer à demain.

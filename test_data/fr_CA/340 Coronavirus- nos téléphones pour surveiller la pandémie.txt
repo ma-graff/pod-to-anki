@@ -1,0 +1,743 @@
+On veut tous trouver des moyens pour
+
+mieux contrer l'avancée de la COVID-19. Il y a des armées de
+
+scientifiques, après tout, qui travaille un peu partout dans
+
+l'espoir de trouver un vaccin ou des traitements efficaces.
+
+Mais au-delà de ce que la médecine peut nous apporter, il
+
+y a aussi la technologie qui laisse entrevoir des pistes de
+
+solutions pour mieux suivre, répertorié, cartographie,
+
+géolocaliser et cerner l'avancée du virus et des gens qui en sont
+
+porteurs. On nous dit que la technologie pourrait grandement
+
+aussi contribué au succès du d confinement, comme nous l'a fait
+
+remarquer un auditeur du balado vincens asal, qui aimeraient en
+
+savoir plus à ce sujet. Ça tombe bien, ça m'intéresse aussi.
+
+Notre question, la surveillance numérique peut-elle et doit elle
+
+servir à réduire les risques de propagation du coronavirus?
+
+Notre invité, Benoît Dupont, titulaire de la chaire de
+
+recherche du Canada en cybersécurité à l'université de
+
+Montréal. Moi, je m'appelle Alexis de lancer et c'est parti
+
+pour ça s'explique. Le balado, qui s'intéresse à l'actualité.
+
+Une question à la fois.
+
+La sûreté du Québec, t'es en train de faire une analyse pour
+
+voir si on pourrait utiliser la géolocalisation, entre autres
+
+via les cellulaire. Mais c'est important de le dire là. Pour
+
+l'instant, on n'a pas utilisé cette méthode. Puis, à court
+
+terme, on n'a pas l'intention de l'utiliser. Signe très clair que
+
+la surveillance numérique, dont la géolocalisation peut être
+
+porté fruit, le gouvernement du Québec a demandé que cette
+
+option soit étudiée par la sûreté du Québec. C'est ce qu'a
+
+dit François legault lors dun.de presse au début du mois d'avril.
+
+Alors, monsieur Dupont, quel rôle peut jouer la surveillance
+
+en ces temps de pandémie? Je parle ici d'un rôle un peu plus
+
+global. On ira un peu plus dans le détail ensuite sur les outils
+
+et les approches. Je pense qu'il y a 4 rôles distincts que là,
+
+les technologies de surveillance peuvent jouer pour nous aider à
+
+combattre ou à contrôler cette pandémie. Le premier, c'est à
+
+une échelle collective, essayer de comprendre l'évolution de la
+
+pandémie en modélisant sa propagation à l'aide des données
+
+issues de la surveillance des téléphones intelligents. Alors
+
+par exemple, pour essayer de
+
+comprendre. La densité de population dans certains lieux
+
+dans certains moyens de transport et en essayant de
+
+prédire les effets que certaines mesures de distanciation sociale
+
+qui sont envisagées par les autorités sanitaires, vont
+
+produire à l'aide de ces données dont on dispose le 2e rôle, ça
+
+pourrait être de essayer de retracer les contacts passés qui
+
+ont pu être noués pendant la période d'incubation du virus
+
+par les personnes qui ont été testées positives afin de
+
+faciliter le travail des équipes de santé publique qui vont
+
+tenter d'identifier. Les personnes avec qui ces individus
+
+testés positifs sont entrés en contact depuis 14 jours pour
+
+casser les chaînes de contagion, ça c'était le le 2e rôle, le 3e
+
+rôle, c'est qu'on peut aussi envisager de essayer d'utiliser
+
+les fonctions de géolocalisation pour diffuser des message ciblé
+
+de prévention aux personnes qui résident, qui travaillent où qui
+
+transitent par des points ou la maladie connaît une certaine
+
+concentration. Et puis finalement, le le dernier rôle,
+
+c'est celui qu'on voit dans
+
+certains pays. Euh, pas forcément moins
+
+démocratique, mais dans lesquels, euh, la
+
+surveillance est plus intrusive, c'est contrôler
+
+le respect des règles de quarantaine par les
+
+personnes qui doivent se soumettre, soit parce
+
+qu'elles ont été testées positives, soit parce
+
+qu'elle rentre de l'étranger, soit parce
+
+qu'elles ont été en contact avec quelqu'un de tester de
+
+positif, même si elles sont asymptomatiques. Donc c'est
+
+ça des des rôles qui sont applicables au cours de la
+
+période la plus aiguë de la crise, mais aussi en période
+
+de déconfite Mans.
+
+Exactement, c'est-à-dire que ça, ça va nous permettre. En tout
+
+cas, c'est eux, ce sont les espoirs qui place les
+
+gouvernements et les organismes qui développent ces
+
+applications. Ça va permettre d'abord de mieux mesurer et,
+
+euh, là là, là là, propagation là. Prévalence oe e les contacts
+
+entre les gens qui sont porteurs et les gens qui sont simples
+
+pour plus rapidement identifié, euh, des porteurs futur
+
+hypothétique, tant qu'on n'a pas testé à grande échelle.
+
+Ou pour essayer justement de contrôler parmi ceux qui sont
+
+déjà déterminées comme étant les porteurs du virus, les
+
+contacts qui vont nouer avec le reste de la population.
+
+Plusieurs entreprises et chercheurs se sont justement
+
+lancé dans la course au développement d'applications de
+
+traçabilité selca de Louis Roy, le président et fondateur du
+
+groupe optel, et en même en live, la position des gens, on.
+
+On va chercher les des informations sur leur état de
+
+santé. Est-ce qu'il commence à avoir des symptômes? Et le tout
+
+en temps réel, ce qui nous permet, après de faire un
+
+analyse de risque de de chaque personne par rapport à son.
+
+Contamination et l'évolution de ces symptômes alors, monsieur
+
+Dupont, quelle technologie? Si on parle un peu plus
+
+précisément? Concrètement, quelle technologie pourrait être
+
+utilisée pour qu'on renouent avec une vie un peu plus normale
+
+tout en gardant à l'oeil les risques qui nous entourent?
+
+Mais les 2 technologies sur lesquelles on fondent beaucoup
+
+d'espoir sont 2 technologies qui sont liés à aux téléphones
+
+intelligents. La première, c'est celle de la géolocalisation à
+
+l'aide des fonctions GPS des téléphones intelligents,
+
+c'est-à-dire qui nous permet de et qui permet aux opérateurs de
+
+télécoms de suivre à tout moment la position dans l'espace
+
+géographique de chaque appareil qui est connecté au réseau, et
+
+la 2e technologie, c'est celle de la technologie, c'est le le.
+
+Le protocole Bluetooth qui va, euh. Détecter d'autres
+
+téléphones intelligents à proximité et pouvoir établir des
+
+communications avec cette.
+
+Enfin d'entre eux, sans avoir nécessairement à connaître leur
+
+position géographique pour pouvoir échanger des données.
+
+Si, par exemple, euh, ces appareils ont tous télécharger
+
+des applications compatibles, euh, de traçabilité, mais dans
+
+les les 2K, que ce soit la géolocalisation où là la
+
+technologie Bluetooth, ce qu'on va chercher à faire, c'est
+
+essayer de de localiser la proximité entre des individus.
+
+Les temps de contact et essayer d'emmagasiner ces données
+
+pendant une période suffisante
+
+pour pouvoir. Voyager dans le temps dans le passé et
+
+remontait la liste des contacts qu'une personne qui viendrait
+
+d'être, testée positive, a pu avec laquelle elle a pu
+
+interagir au cours des 2 dernières semaines. Donc, on
+
+peut se poser la la question de l'efficacité, mais l'idée de
+
+ces technologies, de ces applications, c'est que la
+
+mémoire humaine en général n'a pas la capacité de se rappeler
+
+exactement tous les endroits où nous nous sommes rendus, où
+
+toutes les personnes que nous avons rencontrées depuis 2
+
+semaines et donc c'est un peu pour pallier à cette
+
+défaillance cognitive.
+
+Ce que l'on sait actuellement, là, ce serait peu d'études qui
+
+existait peu d'études qui souligné l'efficacité, soit dit
+
+en passant cette technologie là, ce qu'on sait c'est que par
+
+exemple à Singapour, il y a une 15 pour 100 environ de la
+
+population qui est téléchargé la même application et que c'est
+
+bien insuffisant pour arriver à quelque chose de raisonnable. On
+
+estime autour de 60 pour 100 et la question est donc, comment
+
+vous passez d'un 15 pourcent volontaire a quelque chose de
+
+l'ordre du 60 pour 170 pourcent observations de Jonathan
+
+roberge, de l'institut national de recherche scientifique qui
+
+nous amène sur le terrain.
+
+De l'efficacité de ces outils technologiques qui, monsieur
+
+Dupont, il soulève des questions assez pertinentes en ce qui
+
+concerne notamment les facteurs desquels dépend de la présence
+
+ou non de résultat probant, en fonction de quoi ça marche ou
+
+pas. Ce genre de technologie. Il y avait quelques pays dans
+
+lequel on on a observé des résultats positifs qui sont
+
+assez faciles à énuméré, Corée du Sud, Taïwan et Chine aussi.
+
+La raison pour laquelle on pense que ça a très bien marché, c'est
+
+que ces applications faisait
+
+partie. D'une infrastructure sanitaire beaucoup plus vaste et
+
+très, très bien coordonnée à faire d'assurer des tests à très
+
+grande échelle, de tracer les individus qui avaient été en
+
+contact avec les personnes testées positives de façon très
+
+intensives et de confiner individuellement les personnes
+
+qui avaient été en contact avec des individus testés positifs.
+
+Donc les applications elle-même, euh, leur efficacité, comme l'a
+
+dit euh, monsieur Robert, je, on, on sait encore très peu de
+
+choses et il y a beaucoup,
+
+beaucoup de. Euh, de raison de penser que elle est très
+
+variable, mais les pays dans lequel on a observé une
+
+efficacité plus ou moins avérés, ce sont des pays qui ont combiné
+
+ces applications avec des ressources considérables,
+
+extrêmement bien coordonné. Euh,
+
+donc. Ça, ça nous met en garde un petit peu contre la pensée
+
+magique qui, euh, qui, qui nous amènerait à penser que ces
+
+applications vont se substituer à des infrastructures sanitaires
+
+qui ont été un petit peu défaillantes. C'est évidemment
+
+en complément et non pas en substitution. Voilà, et ça prend
+
+aussi j'imagine un seuil minimal d'utilisateurs pour que ça
+
+fonctionne. Pour avoir un échantillon qui en valait la
+
+peine. Effectivement, ce que moi je ne suis pas épidémiologiste,
+
+mais ce que j'ai lu dans de multiples documents, c'est que
+
+c'est à peu près 60 pour 100 de la population qui doit avoir
+
+téléchargé ce type de d'outils d'application pour qu'on puisse
+
+réellement pouvoir obtenir des résultats probants et donc pour
+
+vous donner un ordre d'idée, euh. l'Islande, qui a déployé un
+
+tel outil qui est un tout petit pays très homogène, a réussi à
+
+convaincre seulement 40 pour 100 de la population de télécharger.
+
+Euh, ce type d'applications, donc imaginer dans des pays
+
+beaucoup plus peuplées ou la population est beaucoup plus
+
+diversifié dans lequel elle pourrait peut-être avoir
+
+beaucoup moins confiance dans le l'état je pense que ça, ça pose
+
+de de réels défis. Est-ce que ça veut donc dire que la seule et
+
+unique façon que ça soit efficace tout ça, c'est que les
+
+gouvernements, les états nous obligent à télécharger une
+
+application, d'y aller de façon
+
+contraignante. Je pense qu'on n'est pas en Chine ou celle là
+
+ou celle qu e je crois pas qu'il y ait d'obligation qui sont
+
+encore envisagées dans les pays démocratiques. Mais c'est clair
+
+que l'état au minimum devrait coordonner les pilotes et les
+
+efforts. Hans assurant que les applications soient connues de
+
+l'ensemble du public. Donc en lançant des campagnes de
+
+communication comme ça a été le cas en Australie depuis 24h ou
+
+le Premier ministre a invité tous les citoyens australiens à
+
+télécharger l'application. Oki a été conçue par l'état et ou
+
+c'est l'état le gouvernement qui coordonnent, euh. Le déploiement
+
+et l'utilisation des données pour contribuer à l'effort
+
+collectif plutôt que d'interférer avec l'effort
+
+collectif de la santé publique. Mais monsieur Dupont, est-ce que
+
+tout le monde doit nécessairement utiliser la même
+
+technologie pour que ça fonctionne? Oui, idéalement,
+
+c'est ce qu'on veut pour s'assurer qu'il n'y a pas de
+
+multiplication. Prolifération d'initiatives privées avec une
+
+fragmentation des données parce que on va voir, on va observer
+
+des initiatives privées c'était inévitable y a déjà des
+
+entreprises. Qui ont conçu leur propre application pour
+
+surveiller leurs propres employés. Pour s'assurer que ces
+
+derniers sont en santé. Mais si on voit trop d'applications
+
+privé se multiplier, ça va devenir complètement
+
+contre-productif et les. Les équipes de la santé publique
+
+seront pas laquelle. Privilégier? Forcément, on aura
+
+déjà beaucoup de difficulté à obtenir une image globale de la
+
+situation et donc on va avoir des ressources qui sont déjà en
+
+quantité limitée pour faire face à une crise extraordinaire qui
+
+va encore plus, euh. C'est lié t pour essayer justement de
+
+accommoder de ces différentes technologies qui serait.
+
+Disponible, donc je pense que c'est quelque chose à décourager
+
+selon moi. Et est-ce que ça peut apporter avec les mises en garde
+
+qu'on entend un faux sentiment de sécurité? Entendre, pandémie.
+
+On on peut présumer que c'est
+
+risqué là. Ouais, effectivement, je crois que c'est risqué, ça
+
+peut introduire comme vous l'avez dit, sans un faux
+
+sentiment de sécurité, mais aussi ça peut générer beaucoup
+
+de confusion et beaucoup de stress dans l'esprit des des
+
+gens. On connaît absolument pas l'efficacité réelle de ces
+
+applications. Ça veut dire que on va peut-être avoir des taux
+
+de faux positifs et de faux négatifs très élevé, donc on va
+
+avoir des gens qui vont recevoir des notifications qui sont
+
+peut-être contaminé alors que ce n'est pas le cas. Et alors que
+
+d'autres personnes vont recevoir les scores, leur laissant penser
+
+qu'ils ne sont pas contaminés, alors qu'en fait ils ont attrapé
+
+le virus et donc.
+
+Donc, donc on comprend pas le contexte social des contacts, de
+
+la manière dont ça se transmet, puis ces applications là ne
+
+peuvent pas précisé le contexte social. Je pense que ça peut
+
+gêner. Réintroduire beaucoup plus de confusion qu'il n'y en a
+
+déjà. Il y en a déjà énormément, donc je crois que c'est un petit
+
+peu risqué quand même de déployer ses applications sans
+
+comprendre réellement les bénéfices réels qu'on va en
+
+tirer est que on est très séduit par la solution technologique
+
+miracle. Mais que celle-ci peut être risque de nous
+
+décevoir amèrement.
+
+Il y a des glissements qui sont possibles à travers
+
+l'utilisation de données de géolocalisation un peu partout.
+
+Euh, d'emblée, parce que la majorité de ces données là, que
+
+ce soit à travers nos services de téléphone cellulaire ou que
+
+ce soit à travers des services qu'on utilise comme Google,
+
+Apple, Facebook et tout ça, c'est souvent des données qui
+
+sont récoltées sans notre consentement. Donc déjà là ème,
+
+il y a quelque chose qui est
+
+très problématique. La côte, directrice des communications de
+
+crypto Québec, Anne-Sophie letellier, qui met le droit, je
+
+crois, sur un élément crucial dans la sphère des données
+
+personnelles. Monsieur Dupont, quels sont les risques associés
+
+à l'utilisation de ce genre de technologie? Quand on pense à
+
+aux données personnelles comme tel, puis à les risques, c'est
+
+que c'est c'est donner une fois que la crise sera terminée, ne
+
+soit pas effacé et donc on les utilise pour déterminer qui a
+
+été malade, qui a peut-être des risques de de réacquérir la
+
+maladie qu'il y a des risques.
+
+De montrer les des des symptômes qui vont un petit peu ce
+
+s'éterniser et donc de de, de, de, de ne plus avoir accès à la
+
+même au même type de de d'emploi qui risque d'être discriminé
+
+dans l'accès à des services d'assurance de santé, à des
+
+services de santé tout court. Donc je pense qu'il y a un
+
+certain nombre de de risques de profilage futur ou tout
+
+simplement des risques que ces données là vienne, euh, encore
+
+étoffer les dossiers personnels.
+
+Mais qui sont constitués par ces grands, ces grandes entreprises
+
+du web pour essayer de de de mieux nous vendre certains
+
+services où certains produits déjà. Dans quelle mesure on peut
+
+leur faire confiance à ces géants du web? Là est la
+
+question aussi. Moi je pense que c'est géant du web qui se
+
+présente sous des apparences très altruiste. Maintenant, on
+
+va être probablement très tenté d'exploiter ces données à moyen
+
+ou à long terme pour nous offrir à l'avenir d'autres services
+
+liés à la santé ou au bien-être et donc moi je serai extrêmement
+
+vigilant sur ce point là.
+
+Je pense que la santé publique 2 milliards d'individus ne
+
+doit pas dépendre de ces entreprises, de ces grandes
+
+entreprises privées qui peut être pourrait commencer à
+
+payer des impôts dans les pays où elles sont présentes pour
+
+financer les infrastructures de santé dont on voit bien
+
+qu'elles ont besoin de de nombreuses ressources
+
+additionnelles.
+
+Il faut juste être conscient que si on va dans cette sont
+
+explorées, dis donc cette option là c'est une brèche importante
+
+par rapport à la surveillance en fête. Et là le gros problème que
+
+moi je vois qu'une surveillante qui serait exercé commandé par
+
+l'état donc étatique et qui serait en plus à des fins de
+
+conversation. Donc pour punir les gens, ou en tout cas pour
+
+les contraindre davantage, donc c'est vraiment une brèche
+
+importante à ne pas prendre à la légère. C'est ce qu'on pense à
+
+tout le moins. Mélanie millette de professeur en communication
+
+sociale et publique de l'uqam qui s'inquiète, on le voit, on
+
+l'entend. De dérapages possibles liées à la surveillance dite
+
+étatiques monsieur Dupont, est-ce que la crise de la Corée
+
+19A cru, donc? Le phénomène et les risques qui sont liés à tout
+
+ça? Effectivement, je pense que. On a observé que certains pays
+
+démocratiques ont mis en œuvre des mesures drastiques qui porte
+
+atteinte à la conception qu'on se fait de la vie privée en
+
+général. Mais il faudrait également se bien se rappeler
+
+que la situation est exceptionnelle au au jour où on
+
+se parle. Il y a près de 200000 morts à l'échelle de la planète
+
+qui ont été causés par ce.
+
+Par ce virus, on a aussi accepté avec résignation qu'un autre
+
+droit fondamental, celui de la liberté de mouvement, soit
+
+temporairement limité. Et il en va de même évidemment pour la
+
+vie privée. Donc le problème, c'est évidemment que les
+
+entorses à la vie privée ont des conséquences beaucoup plus
+
+durable que c'est la liberté de mouvement. C'est-à-dire que
+
+quand on va d confiné nos sociétés, on va retrouver notre
+
+liberté d'aller et de venir alors que quand on va, euh, des
+
+confiner les données de surveillance qui auront été
+
+collectées, elles vont rester de façon quasiment perpétuel.
+
+En possession des gouvernements et des grandes entreprises, donc
+
+c'est là qu'il y a peut-être un risque accru effectivement, mais
+
+la surveillance qui est mise en œuvre à l'heure actuelle dans
+
+les pays démocratiques, c'est pas une surveillance pour, euh.
+
+Punir c'est une surveillance pour soigner, c'est une
+
+surveillance pour sauver des vies, donc ça il faut aussi
+
+quand même s'en rappeler. Effectivement on est tenté de de
+
+faire appel à des réflexes du passé, mais la situation, encore
+
+une fois est très particulière. Ce qu'il faut faire par contre,
+
+c'est essayer d'imaginer comment on va atténuer les conséquences
+
+futures négatives. Qui pourrait être suscitée par ce
+
+recours beaucoup plus étendu à des formes de surveillance
+
+beaucoup plus intrusive.
+
+On essaie de faire quelque chose de de semblable, mais qui met
+
+beaucoup plus de poids sur la question de la vie privée. Vous
+
+savez, ici, au Canada, c'est quelque chose qui est important
+
+pour tout le monde. Il y a beaucoup d'enjeux, de de
+
+compromis entre la protection de la vie privée et la protection
+
+de la santé et de la sécurité de tout le monde. Il faut que
+
+collectivement, on fasse les choix qui nous convienne, y a
+
+banjo, sommité mondiale, professeur et spécialiste en
+
+intelligence artificielle à l'université de Montréal qui
+
+élaborent, on l'entend lui aussi, une application pour
+
+permettre aux autorités sanitaires de déterminer les
+
+risques d'infection des
+
+personnes. Avec, dans un approche un peu plus positif,
+
+peut-être là. Si la cadrature du cercle, lui, il pense qu'il y a
+
+un moyen d'allier la géolocalisation et le respect à
+
+la vie privée, est-ce que c'est possible selon vous? Monsieur
+
+Dupont, oui, je crois que c'est possible, c'est tout à fait
+
+possible. Si on prend soin, comme le lundi, que yoshua
+
+bengio d'intégrer dans le développement de ses
+
+applications une réflexion plus approfondie sur la vie privée,
+
+c'est à dire comme par exemple la Fed, la commission de
+
+l'éthique en science et en technologie du Québec, qui a
+
+produit un avis très bien conçu qui essaye de de de mettre à
+
+plat quels sont les risques auxquels le développement et la
+
+distribution de ces application nous exposé? Comment on peut
+
+faire pour atténuer ces risques là, pour essayer justement de de
+
+tirer bénéfice de ces applications tout en limitant
+
+les aspect négatifs et les conséquences dommageables futur
+
+que qu'elle pourrait générer. Donc je pense qu'il y a des des
+
+moyens de de concilier la vie privée et le déploiement de ces
+
+applications. Je pense que, euh, il est important de mener des
+
+études d'impact avant de lancer toute application pour essayer
+
+d'anticiper Euh, comment elle pourrait ne pas fonctionner de
+
+façon adéquate? Et qu'est-ce qu'on devrait faire avant de les
+
+télécharger à des millions de d'exemplaires, de s'assurer que
+
+elles sont utiles, elles sont bénéfiques pour la société et la
+
+santé publique et elle limite les risques inhérents à au
+
+dévoilement de la vie privée des usagers individuels, à l'image
+
+de ce qu'on fait avec les vaccins ou les traitements, par
+
+exemple, avec des tests cliniques et tout le reste pour
+
+s'assurer de leur innocuité. Ben voilà qui est porteur d'espoir.
+
+Je vous remercie beaucoup Benoît Dupont pour cette
+
+conversation, cet entretien. Merci de m'avoir invité.
+
+Voilà pour aujourd'hui. Je vous rappelle en terminant qu'en
+
+cette période de pandémie de COVID-19, le balado ça
+
+s'explique se consacrent entièrement aux questions
+
+suscitées par cette crise sanitaire. Et pour atteindre cet
+
+objectif? Mais on a besoin de vous, faites nous part des
+
+questions que vous avez à ce sujet et surtout, surtout,
+
+prenez soin de vous ici. Alexis de lancèrent, à bientôt.

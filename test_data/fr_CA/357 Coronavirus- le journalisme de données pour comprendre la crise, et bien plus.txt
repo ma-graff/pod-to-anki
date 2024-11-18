@@ -1,0 +1,595 @@
+Sur les bancs
+
+d'école, j'ai jamais été une bol des maths. Les chiffres c'était
+
+disons moins ma tasse de thé, mais une fois devenu
+
+journaliste, il a bien fallu que je travaille à partir de données
+
+de statistique, parce que le travail des journalistes.
+
+Et bien souvent de les mettre en contexte et de
+
+leur donner un sens. Une mission devenu essentiel,
+
+entende pandémie. Alors qu'on est confronté à une
+
+surabondance de chiffres sur une base quotidienne. Mais
+
+cette situation inédite exige un niveau d'expertise
+
+supérieur, incarné par les journalistes de données.
+
+Notre question, comment le journalisme de données est-il à
+
+comprendre la crise actuelle? Notre invité, naïl shihab,
+
+journalist de donner à Radio-Canada, moi, je m'appelle
+
+Alexis de lancer et c'est parti pour ça s'explique le balado,
+
+qui s'intéresse à l'actualité. Une question à la fois.
+
+Nos systèmes d'information sont en ce moment en plein
+
+bouleversement. Ils sont transformés de 1000 manières.
+
+Alors il y a des nouvelles façons de faire des récits qui
+
+émerge. Il y a du nouveau narratif. Carole Beaulieu lors
+
+d'un grand entretien avec Stéphane bureau, elle jasait,
+
+journalisme de données, alors qu'elle était rédactrice en chef
+
+et éditrice du magazine l'actualité magazine pour lequel
+
+nail du travail à l'époque toi qui a fait du journalisme de
+
+données ta spécialité, dis nous d'abord. Comment tu définirais
+
+cette branche de notre métier? Ce nouveau narratif qui gagne à
+
+être connu? Bien dans le journalisme de données c'est sûr
+
+qu'il y a journalisme, ça, on. On sait, on sait de quoi on
+
+parle. En revanche donné, je me suis rendu compte que souvent
+
+les gens étaient moins à l'aise. Ça avait un petit peu moins.
+
+Qu'est-ce qu'on veut dire par donner? Et en fait, c'est très
+
+simple, c'est tout simplement une information qui est
+
+enregistrée de façon numérique, donc ça peut être quelque chose
+
+qui est enregistré sur votre téléphone, sur votre ordinateur
+
+dans l'info nuage x, sur un serveur quelque part dans le
+
+monde. Euh, et une donnée, c'est vraiment, ça peut être n'importe
+
+quoi, ça peut être un repas que vous avez commandé, ça peut
+
+être. Euh, un policier qui remet un constat d'infraction, ça peut
+
+être un logement que vous avez loué sur airbnb? Ça peut être le
+
+nombre de pommes de terre produites sur une ferme au
+
+Québec. Tout ça, ce sont des informations et en fait, on les
+
+enregistre numériquement parce que c'est plus simple à garder,
+
+mais c'est aussi beaucoup plus simple à manipuler. Et moi comme
+
+journaliste de données, c'est ça que je fais. Je manipule
+
+constamment de l'information numérique pour essayer de
+
+répondre à de grandes questions.
+
+D'intérêt public, je plonge dans des fichiers Excel dans des
+
+bases de données pour essayer de comprendre qu'est-ce qui se
+
+passe dans notre société? C'est ce que tu avais fait un peu avec
+
+ton reportage sur air BN B je pense que c'est un bon exemple.
+
+Noël pour illustrer un peu ce qu'est le journalisme de
+
+données. Oui, un BN B, c'est un projet, c'est une enquête que
+
+j'ai menée avec ma collègue de s'abaisser Valérie Wallet, qui
+
+est elle aussi journaliste de données basé à Toronto. Euh, et
+
+en fait, on. On voulait vraiment voir l'emprise, euh, derby nbi
+
+sur le marché, euh, de l'immobilier dans les grandes
+
+villes canadiennes. Donc ce que j'ai fait, c'est que j'ai écrit
+
+un petit script, un algorithme commun, un petit logiciel maison
+
+que j'ai codé moi même qui se rendait sur le site web de
+
+airbnb et qui ramassait tous les logements disponibles à la
+
+location. Dans 16 villes canadiennes, donc, on a ramassé
+
+des dizaines et des dizaines de milliers de logements qui
+
+étaient offerts sur la plateforme et ensuite, on en a
+
+fait une analyse et on s'est rendu compte qu'en fait,
+
+Montréal, hum, Montréal était la ville avec la plus forte
+
+concentration. Derby nbi dans certains quartiers. Euh, au
+
+pays, j'avais les coordonnées des logements qui étaient
+
+offerts sur la plateforme, alors j'ai pu faire une analyse
+
+spatiale aussi voir à Montréal. Il y a des zones ou les airbnb
+
+son permis et des zones ou les
+
+airbnb. Sont interdits, et je me suis rendu compte notamment co
+
+centre-ville. Bah, la majorité des logements offerts étaient en
+
+dehors des zones permises. Euh, donc c'est tout ça qu'on peut
+
+faire avec euh, c'est donner à ces informations là qui sont
+
+numérique, c'est un gros volume et on est capable de dresser des
+
+tendances générales pour répondre à certaines questions
+
+comme par exemple, combien y a-t-il de logement airbnb dans
+
+des zones interdites à Montréal? On est capable de faire ça, de
+
+répondre à cette question avec le journalisme de données. Mais
+
+si t'es capable de faire ça, elle c'est parce que tu peux te
+
+lever un matin et concevoir un
+
+algorithme. Moi non. Moi je veux pas faire ça. Ça veut donc dire
+
+qu'il y a des journalistes, les journalistes comme toi ont
+
+besoin de compétences en informatique quand même un
+
+minimum, un seuil minimal requis dans oui, oui, des des
+
+compétences c'est sûr, amp, amp, un petit peu en statistique en
+
+mathématiques, euh, des compétences en informatique en
+
+fait, c'est un beau petit mélange. Les journalistes de
+
+données, on est un peu des des hybrides, entre entre évidemment
+
+des journalistes, on est capable de trouver un angle
+
+journalistique, d'identifier une question d'intérêt public, de
+
+faire des entrevues, de faire la
+
+recherche. Étaler en ondes comme en ce moment. Mais on est aussi
+
+des analystes, on est capable de faire de l'analyse statistique.
+
+Euh, et on est aussi un peu des programmeurs des des
+
+développeurs. On est capable de coder des algorithmes de côté de
+
+petit logiciel pour automatiser certaines choses et parfois il
+
+faut aussi coder des algorithmes simplement pour traiter un un
+
+gros volumes d'informations. Euh, quand on a des millions de
+
+lignes de données, c'est impossible d'ouvrir ça avec
+
+Excel, il faut il faut utiliser du code de.
+
+Un langage de programmation et qui permet de ne pas se noyer
+
+dans la l'abondance, où là, surabondance de données.
+
+D'ailleurs, c'est donner cette matière première. Tu la prends
+
+où? On la prend où? Ça dépend évidemment, euh aujourd hui à
+
+chaque fois qu'un citoyen a une interaction avec par exemple le
+
+gouvernement du Québec, le gouvernement du Canada, à chaque
+
+fois qu'il y a une interaction, c'est enregistrer quelque part.
+
+Euh, donc il y a de grandes bases de données du gouvernement
+
+et c'est sûr que, comme journaliste, notre travail c'est
+
+beaucoup de surveiller ce que
+
+fait le gouvernement. Euh, et, euh, et donc de demander des
+
+données pour vérifier ça, parfois on a accès à certaines
+
+données de compagnie privée. L'exemple que je vous ai donné
+
+sur air BNB. Les données étaient disponibles sur le site web.
+
+Euh, je les ai ramassées, euh. C'est sûr qu'on est dans un
+
+univers qui se numérisent de plus en plus, donc il y a de
+
+plus en plus de données constamment constamment
+
+constamment à certaines compagnies ont fait évidemment
+
+leur modèle d'affaires sur les données qu'on pense évidemment à
+
+Google ou à Facebook et les partis politiques utilisent
+
+constamment des données. En période électorale, par exemple,
+
+les gouvernements utilisent des données en ce moment avec la
+
+copie 19. Euh, on a des données, on reçoit des données tous les
+
+jours, constamment sur, ont répondu ou, euh, il faut pas se
+
+noyer là-dedans, mais c'est pour ça que comme journaliste, on a
+
+l'habitude de recevoir un grand nombre d'informations et et en
+
+fait, on on fait le tri dans tout ça et on essaye d'informer
+
+le public le mieux possible avec ce qui est le plus important.
+
+Nael par rapport aux journalistes, disons plus
+
+traditionnel que je suis, comment c'est comment s'est
+
+développé en filigrane, en marge de tout ça, le journalisme de
+
+données, ça paraît quand et où
+
+et pourquoi? Bah historiquement c'est sûr que le journalisme est
+
+plus proche de de la littérature. Mmm. Dans le passé
+
+on a on avait de grands journalistes qui étaient des
+
+écrivains un petit peu d'abord et qui s'inspirait beaucoup de
+
+la littérature dans la façon d'écrire. Mais autour des années
+
+50, 60, 70, il y a eu tout un mouvement, en particulier aux
+
+États-Unis, pour se rapprocher davantage des sciences sociales
+
+et surtout de l'analyse
+
+quantitative. Pour, euh, avoir des reportages peux être plus
+
+précis, plus chiffrée, et donc ces journalistes, plus américain
+
+dans les années 60, 70, ont commencé à faire ça. Euh, et ça
+
+a continué jusqu à aujourd hui. On a parfois l'impression que le
+
+journalisme de données c'est quelque chose de complètement
+
+nouveau, mais en fait ces fondements remontent déjà
+
+plusieurs décennies, ce qui est très nouveau. Par contre
+
+maintenant c'est avec l'arrivée d'internet, on a eu tout d'un
+
+coup une quantité incroyable d'informations de données.
+
+Et aussi, c'est beaucoup plus accessible. Moi, j'ai commencé
+
+comme journaliste télé radio, j'ai appris la programmation
+
+informatique par la suite. Ça aurait été impossible il y a
+
+plusieurs décennies. C'était tellement compliqué des outils
+
+coûté tellement cher aujourd hui sur mon ordinateur et les
+
+ordinateurs qu'on les gens à la maison? Euh, on est capable de
+
+traiter des millions de lignes de données si on le souhaite.
+
+On vous parle beaucoup hein? On vous donne. Je viens de vous en
+
+donner beaucoup, beaucoup de chiffres parce que une pandémie
+
+c'est ça. Ce sont des chiffres DKDD. C'est des gens qui se
+
+rétablissent, alors d'où nous viennent tout seul. Concernant
+
+le nombre de k test est positif, on est rendu à 45495, c'est une
+
+augmentation de 720 important de rappeler telle sorte que la
+
+courbe d'essais amont et si la zone grisée ici à correspond.
+
+Il pleut, vous voyez, peut-être pas bien, mais la zone grisée,
+
+c'est qu'on va s'organiser pour voyez le rapport demain. La zone
+
+grisée, ici, correspond à des données qui vont probablement
+
+entrer dans les prochains jours. La tête dans le contexte de la
+
+pandémie. Revenons aux anaelle, à quel moment t'as senti que le
+
+journalisme de données pouvait jouer un rôle important,
+
+pertinent? Il y a une date très précise, euh. Le jeudi 12 mars,
+
+le jeudi 12 mars, avec, avec mon équipe, on, on s'est rendu
+
+compte que la crise allait être
+
+majeur. Euh. On a décidé d'arrêter tous les projets sur
+
+lesquels on travaillait, euh, pour se demander qu'est-ce qu'on
+
+pouvait faire, nous, avec notre approche à nous, pour aider le
+
+public à à s'informer, hum. Pendant cette période difficile
+
+et le lendemain, le vendredi 13 mars, euh, on a décidé qu'on
+
+faisait un tableau de bord qui allait rassembler les données du
+
+Québec, du Canada et de l'international. Euh, que ça
+
+allait être notre approche à nous pour informer les gens.
+
+On savait qu'il y allait avoir une, une quantité de données qui
+
+allaient arriver tous les jours et on a créé, euh. On a créé un
+
+tableau de bord pour montrer le nombre de k en temps réel quasi
+
+réel. Hum. Decauville 19 et je pense que. On est arrivé au haut
+
+à un moment important avec ce projet là, on on accordé notre
+
+première version en tout afin de se Maine. On l'a sorti 4 jours
+
+plus tard. Euh. Et c'était important parce que. Il y a
+
+tellement un afflux de chiffres chaque jour qu'il fallait donner
+
+un sens à tout ça. Il fallait rassembler tous à un seul
+
+endroit, clair, facile à utiliser, euh, et avec nos
+
+compétences en journalisme en analyse en programmation. Bah.
+
+Avec toute l'équipe, on a été capable de produire ce ce projet
+
+là qui qui est devenue finalement le projet
+
+journalistique le plus consulté de toute l'histoire de
+
+Radio-Canada sur. Sur le site web, on en est très fiers. Euh,
+
+et et et vraiment là on.
+
+On le sent, le l'importance des chiffres, euh. Je crois qu'il
+
+n'y a pas eu beaucoup de périodes comme ça ou tout d'un
+
+coup, ce sont les chiffres qui ont été mis de l'avant plan. Euh
+
+tous les jours, euh, dans toutes
+
+les provinces canadiennes. Et.
+
+Et. Mais en tout cas, je. Je. Je ressens vraiment le je vois le
+
+l'appétit de du public pour pour les chiffres et c'est important
+
+de bien. Leur l'ai présenté les simplifiées. Euh, pour que tout
+
+soit accessible pour pour tout le monde oui, pour que tous
+
+soient digestes Noël. Et quand tu dis les chiffres ils ne
+
+viennent pas seuls, ils viennent de façon illustrée. Il faut
+
+rendre ça intéressant pour l'oeil de l'internaute qui
+
+regarde. C'est là le défi aussi pour vous et c'est le défi qui a
+
+été relevé avec le tableau de bord d'ailleurs merci mais oui
+
+oui c'est c'est. Parce que il. On reçoit plein de chiffres tous
+
+les jours, mais en un coup deuil, on veut savoir, est-ce
+
+que ça va bien? Est-ce que ça va mal? Quelle est la tendance?
+
+Donc ça, il faut faire une représentation visuelle, alors
+
+c'est beaucoup de travail pour faire une représentation
+
+visuelle claire. Euh, facile à comprendre pour tout le monde,
+
+un grand défi aussi pour les médias. Actuellement, c'est la
+
+consommation d'information sur les appareils mobiles, les
+
+écrans sont très petits au lieu d'être des écrans horizontaux,
+
+ce sont des écrans verticaux, ça change vraiment beaucoup de
+
+choses pour faire des
+
+graphiques. Claire interactif, comment on interagit avec la
+
+page aussi, donc c'est tout ce travail là qu'on qu'on fait
+
+comme équipe et qu'on qu'on a su finalement. On a su.
+
+Distiller tous nos apprentissages des 2 dernières
+
+années pour pour faire ce projet là. Et c'est un projet
+
+important pour nous. Et je pense aussi pour le public. Je
+
+t'écoute Noël, ça doit être tentant pour toi et tes
+
+collègues qui font du journalisme de données de
+
+faire des prévisions à partir de ces données là. Est-ce que
+
+vous le faites? Est-ce que c'est possible?
+
+C'est oui, euh, c'est toujours très tentant, eux, parce que si
+
+on prend la la crise actuelle avec ce coronavirus, bah il y a
+
+des modèles de de projection qui existent, l'institut national de
+
+santé publique, euh du Québec le fais, il y a des projections.
+
+Moi je pourrais décider de prendre leurs paramètres et
+
+créer mes projections à combien on va avoir 2K dans 2 semaines
+
+dans un mois dans 6 mois? C'est évidemment très tentant.
+
+Mais eux et certains médias d'ailleurs, le font eux.
+
+Mais comme journaliste, on travaille sur des faits et je
+
+pense que c'est important de garder, euh, une ligne claire
+
+par rapport à ça. Moi, je, je suis un journaliste avant tout.
+
+Je travaille sur ce qui se passe ou sur ce qui s'est passé. Euh
+
+et, euh, ce qui va se passer. Il y a beaucoup de facteurs,
+
+notamment ce que les citoyens décident de faire dans une
+
+démocratie et le chemin qui décide de prendre. Alors je ne
+
+me risque pas à ça. Euh, c'est un peu la frontière entre
+
+l'analyste. Euh, et le journaliste et moi je.
+
+Je. Je suis journaliste.
+
+Juste la campagne d'obama il y avait 3 centres de données juste
+
+pour les autres, 180 téraoctets de données, 800 milliards de
+
+requêtes, donc sur les réseaux sociaux et ailleurs. Alors oui
+
+effectivement donc c'est pas nouveau, mais tout ça se
+
+faisait. Le professeur Jean Hugues, rois de l'école des
+
+médias de l'uqam qui discutaient ici avec Michel c Auger de
+
+l'importance qu'ont pris les données pour les partis
+
+politiques au fil des ans. Mais il faut bien dire que ça
+
+intéresse aussi pas mal d'acteurs en dehors des milieux
+
+politiques comme tel. Alors pouvoir analyser ces données là,
+
+nael, pour les journalistes,
+
+c'est crucial. C'est crucial. On on est en démocratie donc, et
+
+notre rôle comme journaliste, c'est de surveiller les faits et
+
+gestes. Bon, évidemment, des gouvernements, mais aussi des
+
+partis politiques, des entreprises privées, tous,
+
+toutes ces entités là utilisent une énorme quantité de données
+
+d'informations pour prendre des décisions où justifier leurs
+
+décisions. Euh, alors moi je trouve vraiment que comme
+
+journalistes ont, on doit être présent. On doit avoir ses
+
+compétences là pour être sûr qu'on s'fait pas raconter
+
+n'importe quoi. Euh, c'est vraiment un rôle que je trouve
+
+de plus en plus important, il y a des algorithmes aussi, des
+
+programmes informatiques qui régissent une partie importante
+
+de nos vies. De nos jours, votre téléphone, votre compte
+
+Facebook, Google, euh. Certains programmes informatiques qui
+
+décide si oui ou non vous, on devrait faire une révision
+
+fiscale? Euh, sur votre qu est-ce que vous avez droit à un
+
+crédit d'impôt ou pas? Tout ça, ce sont des programmes
+
+informatiques, des formules mathématiques, euh, et comme
+
+journaliste, je pense qu'on doit être capable de les disséquer.
+
+Et de regarder ce qu'il y a à l'intérieur et de s'assurer que,
+
+euh, les citoyens ne ne se font pas, ne se font pas avoir. Et
+
+pour ça, il faut avoir des compétences. Je crois en en
+
+journaliste comme journaliste de données. Euh, c'est très
+
+important aujourd hui et ça va l'être de plus en plus. Notre
+
+société continue de se numériser à une vitesse folle. Ah oui
+
+vraiment? Et je suis vraiment content de voir à quel point
+
+notre métier n'a, elle s'enrichit et se diversifient
+
+avec ce genre d'approche là et et voilà un pionnier n'est-ce
+
+pas? Merci beaucoup. Merci beaucoup d'elle pour cet
+
+entretien. Merci pour l'invitation.
+
+Voilà qui m'a fait une autre semaine de balados axée sur
+
+l'actualité. Merci de nous accompagner dans cette aventure.
+
+Tant de choses restent à comprendre et à expliquer.
+
+Faites nous part des sujets que vous aimeriez qu'on abordent
+
+pour vous? Ce balado et réalisé par Mario del Marco fortier et à
+
+la recherche. C'est Myriam le négoce lac, moi, je m'appelle
+
+Alexis de l'enseigne à bientôt.
