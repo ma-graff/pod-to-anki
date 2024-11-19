@@ -31,7 +31,7 @@ def count_frequencies(text, phrase_length=1):
         return Counter([" ".join(phrase) for phrase in phrases])
 
 # Directory containing the transcription files
-directory = "/Users/matt/Documents/GitHub/pod-to-anki/test_data/fr_CA"
+directory = "/Users/matt/Documents/GitHub/pod-to-anki/test_data/fr_CA/mp3"
 
 # Load and preprocess the text
 transcriptions = load_transcriptions(directory)
