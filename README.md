@@ -10,11 +10,13 @@ A tool designed for language learners to transcribe podcast audio, analyze word/
 
 The next steps for the project include:
 
-1. **Testing and Debugging**: Thoroughly test the existing features to identify and fix any bugs.
-2. **User Interface**: Develop a user-friendly interface for easier interaction with the tool.
-3. **Integration with Anki**: Implement functionality to directly export generated flashcards to Anki.
-4. **Performance Optimization**: Optimize the code for better performance and efficiency.
-5. **Documentation**: Improve and expand the project documentation
+1. **Finishing Base Features**:
+    - Transcribe, rank (non-basic) words/phrases, generate TTS/fetch audio, convert to anki
+2. **Implementing Anki Functionality**: Export to Anki easily.
+3. **User Interface**: Develop a user-friendly interface for easier interaction with the tool. Possibly self-hosted, docker or just tkinter.
+4. **Documentation**: Improve and expand the project documentation
+5. **Extended Features** to be implemented later:
+    - Create a better UI, host on some service.
 
 ## Tools Used
 
